@@ -6,3 +6,4 @@ Awesome Archive of Quantum Computing Toolkits
 
 ## qiskit
 - https://qiskit.org/textbook/ch-algorithms/quantum-fourier-transform.html
+- https://vitalflux.com/quantum-computing-install-qiskit-using-pip/
