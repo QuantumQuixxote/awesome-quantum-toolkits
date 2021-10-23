@@ -13,3 +13,6 @@ Awesome Archive of Quantum Computing Toolkits
 ## IBM Quantum Iab
 - https://lab.quantum-computing.ibm.com/
 
+## Tensorflow Quantum
+- https://colab.research.google.com/drive/1fI5U8oxsSIym5Ht0QH16asY98e4WYmln
+
