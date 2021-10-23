@@ -1,6 +1,9 @@
 # awesome-quantum-toolkits
 Awesome Archive of Quantum Computing Toolkits
 
+## Quantum Gates
+- https://www.asc.ohio-state.edu/perry.6/p5501_sp17/articles/quantum_gates.pdf
+
 ## Google Qsim
 - https://blog.google/technology/ai/qsim-explore-quantum-algorithms/
 
