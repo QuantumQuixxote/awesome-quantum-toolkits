@@ -1,6 +1,9 @@
 # awesome-quantum-toolkits
 Awesome Archive of Quantum Computing Toolkits
 
+## Quantum Algorithms
+- https://quantaggle.com/algorithms/
+
 ## Quantum Gates
 - https://www.asc.ohio-state.edu/perry.6/p5501_sp17/articles/quantum_gates.pdf
 
@@ -22,3 +25,11 @@ Awesome Archive of Quantum Computing Toolkits
 ## Tensorflow Quantum
 - https://colab.research.google.com/drive/1fI5U8oxsSIym5Ht0QH16asY98e4WYmln
 
+## Quantum Cryptography
+- https://medium.com/@arthi1996.007/quantum-cryptography-in-chatroom-application-using-ibmq-qiskit-library-f4c05002cadc?sk=da9a2e155ea9e24d54b46e8972f8b8a2
+
+## Quantum Randomness
+- https://medium.com/@arthi1996.007/quantum-dice-true-randomness-using-ibmq-qiskit-48802bea47c4
+
+## Quantum Games
+- https://medium.com/quantumcomputingindia/quantum-computing-through-puzzles-c8b25af16c1
